@@ -323,7 +323,7 @@ Contributions are welcome, as is feedback.
 * [Practical Expercience with OCRopus Model Training](https://comsys.informatik.uni-kiel.de/lang/de/res/practical-expercience-with-ocropus-model-training/) (2016) [@jze](https://github.com/jze)
 * [Homemade Manuscript OCR (1): OCRopy](http://graal.hypotheses.org/786) (2017) [@Jean-Baptiste-Camps](https://github.com/Jean-Baptiste-Camps)
   * Tutorial on applying OCR to medieval manuscripts with OCRopy
-* [Optimizing Binarization for OCRopus](https://comsys.informatik.uni-kiel.de/lang/de/res/optimizing-binarization-for-ocropus/) (2017) [@jze](https://github.com/jze)
+* [Optimizing Binarization for OCRopus](https://zedlitz.de/posts/2017/02/optimizing-binarization-for-ocropus/) (2017) [@jze](https://github.com/jze)
 * [Prototype demo for OCR postfix in Danish Newspapers](https://sbdevel.wordpress.com/2016/11/15/prototype-demo-for-ocr-postfix-in-danish-newspapers/) (2016) [@thomasegense](https://github.com/thomasegense)
 * [How Can I OCR My Dictionary?](https://digilex.hypotheses.org/153) (2016) [@JessedeDoes](https://github.com/JessedeDoes)
 * ["Needlessly complex" blog](https://mzucker.github.io/) (2016) [@mzucker](https://github.com/mzucker). Several image processing how-tos (Python based), particularly:
